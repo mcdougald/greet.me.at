@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="281" viewBox="0 0 880 281" role="img" aria-label="greet.me.at at a glance: No CAPTCHA, Spam checks out of sight, A real moderation desk, Easy to leave">
+<rect x="0.5" y="0.5" width="879" height="280" rx="12" fill="#0a0a0a" stroke="#262626"/>
+<rect x="24" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="44" dy="0">No CAPTCHA</tspan></text>
+<text x="44" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="44" dy="0">Each comment pays a</tspan><tspan x="44" dy="21">small proof of work</tspan><tspan x="44" dy="21">instead, and a</tspan><tspan x="44" dy="21">solution cannot be</tspan><tspan x="44" dy="21">replayed.</tspan></text>
+<rect x="236" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="256" dy="0">Spam checks out</tspan><tspan x="256" dy="22">of sight</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="256" dy="0">Honeypots, fill-time</tspan><tspan x="256" dy="21">analysis, content</tspan><tspan x="256" dy="21">filters and rate</tspan><tspan x="256" dy="21">limits that a reader</tspan><tspan x="256" dy="21">never sees.</tspan></text>
+<rect x="448" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="468" dy="0">A real</tspan><tspan x="468" dy="22">moderation desk</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="468" dy="0">States, a review</tspan><tspan x="468" dy="21">queue, an audit trail</tspan><tspan x="468" dy="21">and moderator grants</tspan><tspan x="468" dy="21">for the sites you</tspan><tspan x="468" dy="21">own.</tspan></text>
+<rect x="660" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="680" dy="0">Easy to leave</tspan></text>
+<text x="680" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="680" dy="0">Disqus XML import,</tspan><tspan x="680" dy="21">and an export that</tspan><tspan x="680" dy="21">lists every kind of</tspan><tspan x="680" dy="21">personal data it</tspan><tspan x="680" dy="21">stores.</tspan></text>
+</svg>
